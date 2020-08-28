@@ -10,7 +10,7 @@
         "node": ">=0.6"
     },
     "dependencies": {
-        "lodash": "^3.9.3",
+        "lodash": "^4.17.17",
         "xml-schema": "2.0.0",
         "subjects-utils": "0.0.1"
     },
